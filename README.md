@@ -1,6 +1,6 @@
 _Data Scientist based out of Milwaukee, Wisconsin_
 
-[Email](mailto:johnoliver616@yahoo.com) / [GitHub](https://github.com/oliverjohnw) / [LinkedIn](https://www.linkedin.com/in/john-oliver-76508519a/) 
+[Email](mailto:ningaber@gmail.com) / [GitHub](https://github.com/GabeRombalski13) / [LinkedIn](https://www.linkedin.com/in/gabriel-rombalski-b50b4014a/) 
 
 ## Technical Experience
 
@@ -44,20 +44,15 @@ _Description: Applied multivariate statistics and machine learning on projects f
 
 ## Skills
 
-**R**, **Python**, **Git**, **Applied Statistics**, **Machine Learning**, **Exploratory Data Analysis**
+**R**, **Microsoft Office**, **HTML5**, **Applied Statistics**, **Machine Learning**, **Exploratory Data Analysis**
 
 <br>
 
 ## Education
 
-**Master of Science**  in Applied Statistics <br>
-[University of Wisconsin La Crosse](https://www.uwlax.edu/grad/statistics/) - La Crosse, Wisconsin <br>
-Spring 2020 - Fall 2021 <br>
-Master's Project: [Bayesian Hyperparameter Tuning in Classification of NBA Game Outcomes](https://github.com/oliverjohnw/nba-grad-project)
-
-**Bachelor of Science**  in Statistics <br>
-[University of Wisconsin La Crosse](http://catalog.uwlax.edu/undergraduate/mathematics/statistics-bs/)  - La Crosse, Wisconsin <br>
-Fall 2016 - Spring 2020 
+**Bachelor of Science**  in Applied Mathematics and Analytics <br>
+[Viterbo University](https://www.viterbo.edu/programs/engineering-and-applied-mathematics-and-analytics)  - La Crosse, Wisconsin <br>
+Fall 2021 - Spring 2025 
 
 <br>
 <br>
@@ -65,7 +60,7 @@ Fall 2016 - Spring 2020
 
 ## Personal Life
 
-Born and raised in Milwaukee, Wisconsin before I spent my late teenage and early adult life going to college up in La Crosse, WI. When I'm not inside writing code, you can find me outdoors! Love hiking, fishing, and spending time at my family's cabin with friends and family. Huge Wisconsin sports fan - Go Packers! 
+Born in Woodbury, Minnesota; grew up on the outskirts of Strum, Wisconsin. While not doing schoolwork, I enjoy disc golf, tennis, birdwatching, and photography. 
 
 <br>
 
