@@ -52,12 +52,12 @@ Fall 2021 - Spring 2025
 
 ## Personal Life
 
-Born in Woodbury, Minnesota; grew up on the outskirts of Strum, Wisconsin. While not doing schoolwork, I enjoy disc golf, tennis, birdwatching, and photography. 
+Born in Woodbury, Minnesota; grew up on the outskirts of Strum, Wisconsin. While not doing schoolwork, I enjoy disc golf, curling, tennis, birdwatching, and photography. 
 
 <br>
 
 <p align="center">
-  <img src="IMG_4518.JPG" width="200" height="300">
-  <img src="IMG_1168.JPEG" width="200" height="300">
-  <img src="IMG_7506.PNG" width="200" height="300">
+  <img src="PXL_20240805_011600504.MP (1).jpg" width="200" height="266.5">
+  <img src="IMG_20240827_213330413.jpg" width="200" height="267">
+  <img src="461799081_1203669804056225_5077108366611158412_n.jpg" width="250" height="255">
 </p>
