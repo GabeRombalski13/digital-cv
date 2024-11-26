@@ -1,50 +1,42 @@
-_Data Scientist based out of Milwaukee, Wisconsin_
+_Data Analytics student based out of La Crosse, Wisconsin_
 
 [Email](mailto:ningaber@gmail.com) / [GitHub](https://github.com/GabeRombalski13) / [LinkedIn](https://www.linkedin.com/in/gabriel-rombalski-b50b4014a/) 
 
 ## Technical Experience
 
-**Data Scientist** @ [Elutions](https://www.elutions.com/) _(June 2022 - Present)_ <br>
-
-_Description: Data scientist involved in the creation and continuous deployment of live models_
-
-- Developed supervised and unsupervised models for several clients, including water treatment plants, heating and cooling systems, and chemical manufacturing plants.
-
-- Deployed models into a live setting and built out several delopment packages, including a package to monitor model performance and data drift.
-
-<br>
-
-**Data Science Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(June 2021 - June 2022)_ 
+**Ecological Data Analyst Intern** @ [U.S. Geological Survey](https://www.usgs.gov/) _(August 2024 - December 2024)_ 
 
 
-_Description: Applied multivariate statistics and machine learning on projects focused on natural resources and invasive or endangered species._ <br>
+_Description: Learned about and applied occupancy models to invasive carp data collected from 6 pools along the Illinois River._ <br>
 
 
- - Examined demographics of a sample of endangered Mussels with supervised and unsupervised techniques <br> 
- 
-     * Non-Metric Multidimensional Scaling (NMDS), Principle Component Analysis (PCA), distance based Redundancy Analysis (db-RDA) in R 
+ - Explored carp detection data and generated models using equipment types, sample dates, and location as factors. <br> 
 
- - Co-author of a paper examining relationship between selection of distance/dissimilarity metrics and performance of clustering, ordination, and canonical multivariate techniques <br> 
+ - Created a poster board summarizing the internship that will be presented at Viterbo's Interns in Action event. <br> 
 
-     * Hierarchical Clustering, K-Means/Medoids, PCoA/PCA, NMDS and db-RDA in R on metabolomic datasets
+ - Learned self-sufficiency; improved communication skills and demonstrated professionalism. <br>
 
- -  Statistical consulting and model implementation to quantify agreement statistics in aging technique used among invasive Silver Carp <br>
-
-     - Linear Mixed Models in lme4 package in R
+ - Met twice per week with USGS site supervisor to coordinate strategies.
  
  <br> 
  
-**Mathematical Tutor** at [University of Wisconsin La-Crosse](https:https://www.uwlax.edu/) _(September 2019 - Present)_<br>
- - Mathematical knowledge of collegiate-level mathematics courses including Algebra, Calculus, and Linear Algebra. <br>
+_**Waterfowl Radar Analysis & Detection**_ - Capstone Project at [Viterbo University](https:https://www.viterbo.edu/) _(August 2024 - Present)_<br>
+ - Academic research project fulfilling senior-year capstone requirement. <br>
  
- - Advanced communication skills to ensure students' understanding
+ - Worked in collaboration with USGS Upper Midwest Environmental Science Center. <br>
+
+ - Used radar scans to track local waterfowl migration (Pools 7 and 8 of the Mississippi River). <br>
+
+ - Focused on data analytics, using R's bioRad package to generate visual summaries of radar data. <br>
+
+ - Periodic field observations to corroborate radar data with actual waterfowl sightings.
 
 <br>
 <br>
 
 ## Skills
 
-**R**, **Microsoft Office**, **HTML5**, **Applied Statistics**, **Machine Learning**, **Exploratory Data Analysis**
+**R**, **Microsoft Office**, **HTML5**, **Applied Statistics**, **Exploratory Data Analysis**
 
 <br>
 
